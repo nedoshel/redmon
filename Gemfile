@@ -5,7 +5,7 @@ gemspec
 gem "rake"
 
 gem "sinatra", ">= 1.2.6"
-gem "hiredis", "~> 0.4.0"
+gem "hiredis", ">= 0.4.0"
 gem "redis", ">= 2.2.2"
 gem "eventmachine"
 gem "i18n"
